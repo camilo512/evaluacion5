@@ -40,7 +40,7 @@ const PokemonsInfo = () => {
      
 
             </ul>
-            <Link to='/pokemons' className='rout' > ir a pokemons</Link>
+            <Link to='/pokemons' className='rout' ><i class="fas fa-external-link-alt"></i> Back</Link>
         </div>
         
    </div>
