@@ -19,7 +19,7 @@ const Pokemons = () => {
 
     //pagination
     const [ page, setPage ] = useState(1);
-    const itemNumber = 4;
+    const itemNumber = 16;
     const lastIndex = page * itemNumber;
     const fistIndex = lastIndex - itemNumber;
     const totalpages = Math.ceil(pokemons?.length/itemNumber)

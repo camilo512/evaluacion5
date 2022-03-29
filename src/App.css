@@ -61,7 +61,7 @@
 }
 
 .pokemons-list .col{
-  padding: 5px;
+  padding: 10px;
   width: 25%;
 }
 
@@ -75,7 +75,7 @@
   color: #000;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
   display: block;
-  padding: 5px;
+  padding: 15px;
   border-radius: 9px;
   height: 100%;
 }
